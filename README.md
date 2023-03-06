@@ -35,8 +35,6 @@ docker run gabrielossilva/desafio1-go
 ```
 git clone ...
 
-cd desafio01-go
-
 docker build -t gabrielossilva/desafio1-go .
 
 docker run gabrielossilva/desafio1-go
